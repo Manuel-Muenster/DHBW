@@ -16,4 +16,4 @@ This is a stupid (but extremely fast) directory content manager.  It
 doesn't do a whole lot, but what it _does_ do is track directory
 contents efficiently.
 
-This is a change! critical fix 
+This is a change! 
